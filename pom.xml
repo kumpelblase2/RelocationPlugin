@@ -3,7 +3,7 @@
 
   	<groupId>de.kumpelblase2.plugin</groupId>
   	<artifactId>relocation-plugin</artifactId>
-  	<version>1.0</version>
+  	<version>1.1</version>
   	<packaging>maven-plugin</packaging>
 
   	<name>Relocation Plugin</name>

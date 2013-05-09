@@ -28,7 +28,7 @@ public class RelocateMojo extends AbstractMojo
     /**
      * Properties for this plugin
      */
-    @Parameter
+    @Parameter(property = "properties", required = true)
     private Properties properties; 
     
     private int filesSearched = 0;
